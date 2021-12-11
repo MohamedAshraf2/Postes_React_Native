@@ -1,0 +1,13 @@
+.animated{
+    animation:animation;
+    animation-duration:2 ;
+}
+
+@keyframes animation {
+    from{
+        width:0
+    }
+    to{
+        width:100%
+    }
+}

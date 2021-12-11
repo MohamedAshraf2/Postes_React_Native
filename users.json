@@ -1,0 +1,22 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Mohamed",
+            "age":19
+        },
+        {
+            "id":2,
+            "name":"Roqaia",
+            "age":11
+        },
+        {
+            "id":3,
+            "name":"Ahmed",
+            "age":13
+        }
+    ],
+    "posts":[
+        {"id":1,"body":"Sit sed justo eos stet et erat vero ea amet. Labore est eirmod et no et accusam diam. Ea gubergren."}
+    ]
+}

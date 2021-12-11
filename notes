@@ -1,0 +1,51 @@
+-Setup Expo 
+ https://reactnative.dev/docs/environment-setup
+
+npm i -g expo-cli 
+npm run android => android 
+----------------------------
+
+-Unsplash 
+https://unsplash.com/s/photos/coffee-beans
+- scrcpy
+https://github.com/Genymobile/scrcpy
+
+//-------------------
+D02 
+Checkbox component
+https://docs.expo.dev/versions/latest/sdk/checkbox/
+
+// 
+
+1- Redo El demo 
+
+2- Header: MY todos [10 [notDone]] of [15 [ALL]]
+
+3- Todo: Title striked // Bonus (remove it)
+
+4- OnAdd : after adding todo, clear el textInput 
+
+//
+
+Redux || Flux || not known (custom) 
+
+Single source of truth [Data] Root 
+
+Context 
+
+Redux ,
+React redux ( connect,Provider,)
+
+
+<!-- <Provider store={data}>
+
+</Provider> -->
+//Links 
+{Redux//Context}
+https://dummyapi.io/docs/user
+https://picsum.photos/
+https://jsonplaceholder.typicode.com/users
+https://docs.nativebase.io/
+https://reactnavigation.org/
+  
+publish link: 
